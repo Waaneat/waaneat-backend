@@ -1,0 +1,19 @@
+# Dossiers
+node_modules/
+build/
+dist/
+
+# Fichiers d'éditeur
+.vscode/
+
+# Fichiers de logs
+logs/
+*.log
+
+# Cache
+.cache/
+.cache-loader/
+
+# Fichiers de configuration spécifiques à l'utilisateur
+.npmrc
+.npm
